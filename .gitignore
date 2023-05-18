@@ -1,0 +1,12 @@
+# Subfolders that start with "_" and their contents
+_*/
+
+# Files that start with "_"
+_*
+
+# Log folders and files
+logs/
+*.log
+
+# # # Subfolders that consist of numbers indicating date ("20190122").
+# /[0-9]{8}/

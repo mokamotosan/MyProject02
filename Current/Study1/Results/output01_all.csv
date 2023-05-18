@@ -1,0 +1,6 @@
+MID,rt,self_sex,self_age,IOS_score,target_likedislike,target_sex,target_age,relationship,self_tolerance_score,self_pleasantness_score,self_responsibility_score,self_carefulness_score,self_activeness_score,self_sociability_score,target_tolerance_score,target_pleasantness_score,target_responsibility_score,target_carefulness_score,target_activeness_score,target_sociability_score
+1,0.0,0.0,0.0,3.0,0.0,0.0,0.0,text,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,4.0,4.0,4.0
+2,15.0,0.0,0.0,1.0,0.0,0.0,0.0,text,5.0,5.0,7.0,2.0,4.0,5.0,7.0,5.0,2.0,6.0,6.0,6.0
+3,20.0,0.0,0.0,5.0,0.0,0.0,0.0,text,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+6,30.0,0.0,0.0,2.0,0.0,0.0,0.0,text,5.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0
+7,22.0,0.0,0.0,4.0,0.0,0.0,0.0,text,5.0,7.0,1.0,1.0,6.0,1.0,7.0,2.0,3.0,5.0,3.0,6.0
