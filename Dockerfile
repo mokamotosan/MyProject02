@@ -20,3 +20,7 @@ RUN pip install gensim #latest
 
 # japanize-matplotlib
 RUN pip install japanize-matplotlib
+
+# Install Git and Git Flow
+RUN apt-get install -y git && \
+    apt-get install -y git-flow
