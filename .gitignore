@@ -17,3 +17,6 @@ test/
 # Large size files
 Materials/
 RawData/
+
+# Experiments
+Experiments/
