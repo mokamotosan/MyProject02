@@ -24,3 +24,6 @@ RUN pip install japanize-matplotlib
 # Install Git and Git Flow
 RUN apt-get install -y git && \
     apt-get install -y git-flow
+
+# # Install cmake
+# RUN apt-get install -y cmake
