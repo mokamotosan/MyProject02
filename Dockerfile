@@ -27,3 +27,6 @@ RUN apt-get install -y git && \
 
 # # Install cmake
 # RUN apt-get install -y cmake
+
+# Install PyCaret, Optuna, ydata-profiling, and pingouin
+RUN pip install pycaret optuna ydata-profiling pingouin
